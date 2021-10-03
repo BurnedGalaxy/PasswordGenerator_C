@@ -8,7 +8,7 @@ Make the file password executable or compile the file password.c.
 
 Run the "password" file with 2 arguments.
 
-./password (name) (filename_to_store)
+./password {name} {filename_to_store}
 
 Eg: ./password xyz.com password.txt
 
